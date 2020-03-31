@@ -1,14 +1,14 @@
-###Установка
+# Установка
 
-`git clone `
+`git clone  https://github.com/shevchik87/game-test.git`
 
-`cd project`
+`cd game-test`
 
 `composer install`
 
 `php app.php game:start`
 
-###Требования
+# Требования
 
 На ПК должен быть установлен PHP >= 7.3
 
